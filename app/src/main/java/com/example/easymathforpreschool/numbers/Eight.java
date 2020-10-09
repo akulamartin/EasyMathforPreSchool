@@ -1,4 +1,4 @@
-package com.example.easymathforpreschool.Numbers;
+package com.example.easymathforpreschool.numbers;
 
 public class Eight {
 }
