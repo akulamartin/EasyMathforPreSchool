@@ -1,4 +1,6 @@
 package com.example.easymathforpreschool.operations;
 
-public class Division {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class Division extends AppCompatActivity {
 }

@@ -1,4 +1,6 @@
 package com.example.easymathforpreschool.operations;
 
-public class Subtraction {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class Subtraction extends AppCompatActivity {
 }
