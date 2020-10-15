@@ -1,4 +1,12 @@
 package com.example.easymathforpreschool.numbers;
 
-public class Nine {
+import android.view.View;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+public class Nine extends AppCompatActivity implements View.OnClickListener {
+    @Override
+    public void onClick(View v) {
+
+    }
 }
