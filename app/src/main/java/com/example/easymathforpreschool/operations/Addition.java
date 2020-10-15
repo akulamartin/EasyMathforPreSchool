@@ -1,4 +1,6 @@
 package com.example.easymathforpreschool.operations;
 
-public class Addition {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class Addition extends AppCompatActivity {
 }
