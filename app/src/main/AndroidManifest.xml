@@ -17,6 +17,21 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".numbers.One" />
+        <activity android:name=".numbers.Two" />
+        <activity android:name=".numbers.Three" />
+        <activity android:name=".numbers.Four" />
+        <activity android:name=".numbers.Five" />
+        <activity android:name=".numbers.Six" />
+        <activity android:name=".numbers.Seven" />
+        <activity android:name=".numbers.Eight" />
+        <activity android:name=".numbers.Nine" />
+        <activity android:name=".AboutApp" />
+        <activity android:name=".Score" />
+        <activity android:name=".operations.Addition" />
+        <activity android:name=".operations.Subtraction" />
+        <activity android:name=".operations.Multiplication" />
+        <activity android:name=".operations.Division" />
     </application>
 
 </manifest>
