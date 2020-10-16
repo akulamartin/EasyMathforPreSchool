@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">EasyMath : PreSchool</string>
+    <string name="about_text"><b>About EasyMath : PreSchool</b>
+        \nEasyMath is a way to teach addition, multiplication, division, and subtraction skills in a fun
+        and engaging way. Inspired by DigiDots, the students learn the position of dots and lines (forming an \'X\') on each digit.
+        The number of marks on each digit corresponds to the value of the digit.
+        To add, multiply, divide and subtract two digits together, students count the marks on each number to find the sum,
+        the difference, product, and quotient.
+        In \'Learn\' mode, students learn the placement of the dots and lines on the digits. In \'Practice\' mode, students have to remember
+        where the dots and lines are. In \'Quiz\' mode, students get to apply what they have learned to answer ten
+        problems of each math operation.\n\n
+
+    </string>
 </resources>
