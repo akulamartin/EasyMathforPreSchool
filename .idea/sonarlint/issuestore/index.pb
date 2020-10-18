@@ -45,3 +45,17 @@ s
 Capp/src/main/java/com/example/easymathforpreschool/numbers/One.java,c\6\c694a02dac85d1a6cf588ce9fa3e8fe3de452d06
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+X
+(app/src/main/res/layout/activity_add.xml,8\1\814046d555554d885fbddd271f44a143af16d535
+[
++app/src/main/res/layout/activity_divide.xml,0\b\0bd236659abc7d8abed1f2d85ddcec670cec1d24
+Y
+)app/src/main/res/layout/activity_main.xml,7\6\76b07e40f24cce093536731477540f12e7da3cb6
+]
+-app/src/main/res/layout/activity_multiply.xml,f\0\f043efa573771d45d65c3a94e68aae85c3ec0cbc
+Z
+*app/src/main/res/layout/activity_score.xml,9\e\9e1dddf7060d456463d2b963a41a977cfa8c0874
+^
+.app/src/main/res/layout/activity_substract.xml,5\a\5a3f310d94e722a8fb396fd6ebf2e8ff1bfafaa4
+^
+.app/src/main/res/layout/navigation_buttons.xml,1\f\1f0e498281bedb29319b9a846ae697e5ba41a8c0
