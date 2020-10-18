@@ -9,6 +9,14 @@
         In \'Learn\' mode, students learn the placement of the dots and lines on the digits. In \'Practice\' mode, students have to remember
         where the dots and lines are. In \'Quiz\' mode, students get to apply what they have learned to answer ten
         problems of each math operation.\n\n
-
     </string>
+    <string name="score_number">0</string>
+    <string name="home">The home button</string>
+    <string name="score_word">Score:</string>
+    <string name="answer_1">6</string>
+    <string name="answer_2">9</string>
+    <string name="anwser_3">12</string>
+    <string name="plus">A plus sign</string>
+    <string name="second_number">The second number</string>
+    <string name="first_number">The first number</string>
 </resources>

@@ -47,8 +47,6 @@ Capp/src/main/java/com/example/easymathforpreschool/numbers/One.java,c\6\c694a0
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 Y
 )app/src/main/res/layout/activity_main.xml,7\6\76b07e40f24cce093536731477540f12e7da3cb6
-[
-+app/src/main/res/layout/activity_op_add.xml,6\2\62aaf04cb1fcedbfc9d4bd29c723f1333740eeeb
 ^
 .app/src/main/res/layout/activity_op_divide.xml,d\2\d23a7e6330fef213028c2f7c79c336018b576320
 `
