@@ -45,8 +45,6 @@ s
 Capp/src/main/java/com/example/easymathforpreschool/numbers/One.java,c\6\c694a02dac85d1a6cf588ce9fa3e8fe3de452d06
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-Y
-)app/src/main/res/layout/activity_main.xml,7\6\76b07e40f24cce093536731477540f12e7da3cb6
 ^
 .app/src/main/res/layout/activity_op_divide.xml,d\2\d23a7e6330fef213028c2f7c79c336018b576320
 `
@@ -57,3 +55,5 @@ g
 7app/src/main/res/layout/activity_navigation_buttons.xml,d\2\d2f8a4db37854f1289bd16cd6d055643035ab227
 b
 2app/src/main/res/layout/activity_for_the_score.xml,5\1\514201e086154258608cffc0400213e762b9db8e
+[
++app/src/main/res/layout/activity_op_add.xml,6\2\62aaf04cb1fcedbfc9d4bd29c723f1333740eeeb

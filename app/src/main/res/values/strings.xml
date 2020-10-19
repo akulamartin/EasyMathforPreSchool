@@ -19,4 +19,12 @@
     <string name="plus">A plus sign</string>
     <string name="second_number">The second number</string>
     <string name="first_number">The first number</string>
+    <string name="welcome">Welcome to Easy Math:</string>
+    <string name="button_learn">Learn</string>
+    <string name="button_practice">Practice</string>
+    <string name="button_add">Addition Quiz</string>
+    <string name="button_multiply">Multiplication Quiz</string>
+    <string name="button_divide">Division Quiz</string>
+    <string name="button_subtract">Subtraction Quiz</string>
+    <string name="button_about">About the Application</string>
 </resources>
