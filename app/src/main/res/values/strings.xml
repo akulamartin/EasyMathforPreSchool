@@ -27,4 +27,5 @@
     <string name="button_divide">Division Quiz</string>
     <string name="button_subtract">Subtraction Quiz</string>
     <string name="button_about">About the Application</string>
+
 </resources>
