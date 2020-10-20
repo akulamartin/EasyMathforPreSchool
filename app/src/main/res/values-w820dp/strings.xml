@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="_9">9</string>
+    <string name="_6">6</string>
+    <string name="_12">12</string>
+    <string name="plus">Plus</string>
+    <string name="first_number">First Number</string>
+
+    <string name="next">Next</string>
+    <string name="refresh">Refresh</string>
+    <string name="previous">Previous</string>
+    <string name="score">Score:</string>
+
+    <string name="logo">logo</string>
+    <string name="quiz_complete">Quiz Complete!</string>
+    <string name="your_score">Your score:</string>
+    <string name="_0">0</string>
+    <string name="home">Home</string>
+    <string name="minus">minus</string>
+    <string name="background">Background</string>
+
+</resources>

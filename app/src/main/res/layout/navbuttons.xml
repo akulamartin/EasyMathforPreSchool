@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageButton
+        android:id="@+id/left_nav"
+        android:layout_width="70sp"
+        android:layout_height="40sp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="20sp"
+        android:layout_marginLeft="20sp"
+        android:layout_marginBottom="10sp"
+        android:background="@drawable/circle_nav"
+        android:contentDescription="@string/previous"
+        android:onClick="leftNav"
+        android:padding="10sp"
+        android:src="@drawable/ic_action_left" />
+
+    <ImageButton
+        android:id="@+id/refresh_dot"
+        android:layout_width="70sp"
+        android:layout_height="40sp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="105sp"
+        android:layout_marginLeft="105sp"
+        android:layout_marginBottom="10sp"
+        android:background="@drawable/circle_nav"
+        android:contentDescription="@string/refresh"
+        android:onClick="refreshDots"
+        android:padding="10sp"
+        android:src="@drawable/ic_action_refresh" />
+
+    <ImageButton
+        android:id="@+id/home"
+        android:layout_width="70sp"
+        android:layout_height="40sp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="105sp"
+        android:layout_marginRight="105sp"
+        android:layout_marginBottom="10sp"
+        android:background="@drawable/circle_nav"
+        android:contentDescription="@string/home"
+        android:onClick="home"
+        android:padding="10sp"
+        android:src="@drawable/ic_action_action_home" />
+
+    <ImageButton
+        android:id="@+id/right_nav"
+        android:layout_width="70sp"
+        android:layout_height="40sp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="20sp"
+        android:layout_marginRight="20sp"
+        android:layout_marginBottom="10sp"
+        android:background="@drawable/circle_nav"
+        android:contentDescription="@string/next"
+        android:onClick="rightNav"
+        android:padding="10sp"
+        android:src="@drawable/ic_action_right" />
+
+</RelativeLayout>

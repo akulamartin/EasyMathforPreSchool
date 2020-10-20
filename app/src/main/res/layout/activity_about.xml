@@ -1,29 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.percentlayout.widget.PercentRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:id="@+id/ConstraintLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical">
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/bg3"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.martin.easymathforpreschool.About">
+
+    <ImageView
+        android:id="@+id/DDLogo"
+        android:layout_width="wrap_content"
+        android:layout_height="10dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp"
+        android:contentDescription="@string/logo"
+        android:src="@drawable/easymathlogo"
+        app:layout_heightPercent="15%" />
+
+    <ImageView
+        android:id="@+id/bg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/DDLogo"
+        android:alpha=".6"
+        android:contentDescription="@string/background"
+        android:src="@color/colorWhite" />
 
     <TextView
-        android:id="@+id/text_app_name"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/app_name"
-        app:layout_constraintBottom_toTopOf="@+id/text_about"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:id="@+id/aboutText"
+        android:layout_width="match_parent"
 
-    <TextView
-        android:id="@+id/text_about"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="80dp"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/DDLogo"
         android:text="@string/about_text"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent" />
-</androidx.constraintlayout.widget.ConstraintLayout>
+        android:autoLink="all"
+        android:linksClickable="true"
+        android:padding="15dp"
+        android:scrollbars="vertical"
+        android:textSize="20sp"
+
+        />
+
+</androidx.percentlayout.widget.PercentRelativeLayout>
