@@ -1,37 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.easymathforpreschool">
+    package="com.martin.easymathforpreschool">
 
     <application
         android:allowBackup="true"
-        android:fullBackupContent="@xml/backup_descriptor"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-
-        <activity android:name=".MainActivity">
+        <activity android:name="com.martin.easymathforpreschool.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".numbers.One" />
-        <activity android:name=".numbers.Two" />
-        <activity android:name=".numbers.Three" />
-        <activity android:name=".numbers.Four" />
-        <activity android:name=".numbers.Five" />
-        <activity android:name=".numbers.Six" />
-        <activity android:name=".numbers.Seven" />
-        <activity android:name=".numbers.Eight" />
-        <activity android:name=".numbers.Nine" />
-        <activity android:name=".AboutApp" />
-        <activity android:name=".Score" />
-        <activity android:name=".operations.Addition" />
-        <activity android:name=".operations.Subtraction" />
-        <activity android:name=".operations.Multiplication" />
-        <activity android:name=".operations.Division" />
+        <activity android:name="com.martin.easymathforpreschool.DotsOne" />
+        <activity android:name="com.martin.easymathforpreschool.DotsTwo" />
+        <activity android:name="com.martin.easymathforpreschool.DotsThree" />
+        <activity android:name="com.martin.easymathforpreschool.DotsFour" />
+        <activity android:name="com.martin.easymathforpreschool.DotsFive" />
+        <activity android:name="com.martin.easymathforpreschool.DotsSix" />
+        <activity android:name="com.martin.easymathforpreschool.DotsSeven" />
+        <activity android:name="com.martin.easymathforpreschool.DotsEight" />
+        <activity android:name="com.martin.easymathforpreschool.DotsNine" />
+        <activity android:name="com.martin.easymathforpreschool.Add" />
+        <activity android:name="com.martin.easymathforpreschool.Subtract" />
+        <activity android:name="com.martin.easymathforpreschool.Multiply" />
+        <activity android:name="com.martin.easymathforpreschool.Divide" />
+        <activity android:name="com.martin.easymathforpreschool.Score" />
+        <activity android:name="com.martin.easymathforpreschool.About" />
     </application>
 
 </manifest>
