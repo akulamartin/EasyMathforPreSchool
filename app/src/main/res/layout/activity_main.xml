@@ -28,7 +28,8 @@
         android:background="@drawable/circle_nav"
         android:onClick="countDots"
         android:padding="10dp"
-        android:text="Learn" />
+        android:layout_toStartOf="@+id/dummy"
+        android:text="@string/learn" />
 
     <Button
         android:layout_width="wrap_content"
@@ -42,7 +43,7 @@
         android:onClick="practice"
 
         android:padding="10dp"
-        android:text="Practice" />
+        android:text="@string/practice" />
 
     <Button
         android:layout_width="wrap_content"
@@ -55,7 +56,8 @@
 
         android:onClick="add"
         android:padding="10dp"
-        android:text="Addition Quiz" />
+        android:layout_toStartOf="@+id/dummy"
+        android:text="@string/addition_quiz" />
 
     <Button
         android:id="@+id/button8"
@@ -73,7 +75,8 @@
         android:background="@drawable/circle_nav"
         android:onClick="multiply"
         android:padding="10dp"
-        android:text="Multiplication Quiz" />
+        android:layout_toStartOf="@+id/dummy"
+        android:text="@string/multiplication_quiz" />
 
     <Button
         android:id="@+id/button9"
@@ -92,7 +95,7 @@
         android:background="@drawable/circle_nav"
         android:onClick="subtract"
         android:padding="10dp"
-        android:text="Subtraction Quiz" />
+        android:text="@string/subtraction_quiz" />
 
     <Button
         android:id="@+id/button10"
@@ -111,7 +114,7 @@
         android:background="@drawable/circle_nav"
         android:onClick="divide"
         android:padding="10dp"
-        android:text="Division Quiz" />
+        android:text="@string/division_quiz" />
 
     <Button
         android:id="@+id/button4"
@@ -124,15 +127,15 @@
         android:background="@drawable/circle_nav"
         android:onClick="about"
         android:padding="10dp"
-        android:text="About Easy Math" />
+        android:text="@string/about_easy_math" />
 
     <ImageView
+        android:id="@+id/logo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/logo"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:contentDescription="Logo"
+        android:contentDescription="@string/logo"
         android:src="@drawable/easymathlogo" />
 
 </RelativeLayout>

@@ -1,112 +1,112 @@
 
 @
-java:S1444"*Make this "public static dot7" field final(Τα…
+java:S1444!"*Make this "public static dot8" field final(Τα…
+
+java:S1319""rThe type of the "dotList" object should be an interface such as "List" rather than the implementation "ArrayList".(ª‚Ω
+>
+java:S1444&"(Make this "public static mp" field final(ÿ¨ς
+f
+java:S1104!"PMake dot8 a static final constant or non-public and provide accessors if needed.(Τα…
+f
+java:S1104!"PMake dot4 a static final constant or non-public and provide accessors if needed.(Τα…
+B
+java:S1444",Make this "public static height" field final(®ΧΥ
+V
+java:S21840"@Cast one of the operands of this integer division to a "double".(Ε”Ηυ
+i
+java:S1104""SMake dotList a static final constant or non-public and provide accessors if needed.(ª‚Ω
+e
+java:S1104%"OMake mp2 a static final constant or non-public and provide accessors if needed.(ρύΉ„
 @
-java:S1444"*Make this "public static dot9" field final(Τα…
-J
-java:S1444$"/Make this "public static totalDots" field final(ψΊμΩϊÿÿÿÿ
+java:S1444!"*Make this "public static dot9" field final(Τα…
+f
+java:S1104!"PMake dot7 a static final constant or non-public and provide accessors if needed.(Τα…
+8
+java:S1659!""Declare "dot7" on a separate line.(Τα…
+?
+java:S1444%")Make this "public static mp2" field final(ρύΉ„
+g
+java:S1104"QMake width a static final constant or non-public and provide accessors if needed.(ΙΚ¦Ώ
+8
+java:S1659!""Declare "dot9" on a separate line.(Τα…
+8
+java:S1659!""Declare "dot2" on a separate line.(Τα…
+f
+java:S1104!"PMake dot1 a static final constant or non-public and provide accessors if needed.(Τα…
+j
+java:S1104"TMake dotAlpha a static final constant or non-public and provide accessors if needed.(•ήΧφ
+@
+java:S1444!"*Make this "public static dot6" field final(Τα…
+@
+java:S1444!"*Make this "public static dot2" field final(Τα…
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‰Ϊϋÿÿÿÿ
+f
+java:S1104!"PMake dot6 a static final constant or non-public and provide accessors if needed.(Τα…
+p
+java:S1104#"UMake toastText a static final constant or non-public and provide accessors if needed.(”ΪΤνύÿÿÿÿ
+D
+java:S1444".Make this "public static dotAlpha" field final(•ήΧφ
+8
+java:S1659!""Declare "dot6" on a separate line.(Τα…
+D
+java:S1444".Make this "public static dotsDone" field final(ηΆΥ
+C
+java:S1444""-Make this "public static dotList" field final(ª‚Ω
+3
+java:S2386""Make this member "protected".(ª‚Ω
+P
+java:S1118":Add a private constructor to hide the implicit public one.(όΏΘΉ
+I
+java:S1444 ".Make this "public static myLayout" field final(ÿ‡ªϊÿÿÿÿ
+8
+java:S1659!""Declare "dot5" on a separate line.(Τα…
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ξΨοβ
 p
 java:S1104$"UMake totalDots a static final constant or non-public and provide accessors if needed.(ψΊμΩϊÿÿÿÿ
+A
+java:S1444"+Make this "public static width" field final(ΙΚ¦Ώ
+f
+java:S1104!"PMake dot5 a static final constant or non-public and provide accessors if needed.(Τα…
+E
+java:S1444"/Make this "public static dotNumber" field final(ψξΪ―
+J
+java:S1444#"/Make this "public static toastText" field final(”ΪΤνύÿÿÿÿ
+d
+java:S1104&"NMake mp a static final constant or non-public and provide accessors if needed.(ÿ¨ς
 8
-java:S1659""Declare "dot3" on a separate line.(Τα…
+java:S1659!""Declare "dot4" on a separate line.(Τα…
+@
+java:S1444!"*Make this "public static dot1" field final(Τα…
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ξΨοβ
+@
+java:S1444!"*Make this "public static dot5" field final(Τα…
+h
+java:S1104"RMake height a static final constant or non-public and provide accessors if needed.(®ΧΥ
+k
+java:S1104"UMake dotNumber a static final constant or non-public and provide accessors if needed.(ψξΪ―
+8
+java:S1659!""Declare "dot3" on a separate line.(Τα…
+8
+java:S1659!""Declare "dot8" on a separate line.(Τα…
+@
+java:S1444!"*Make this "public static dot7" field final(Τα…
+J
+java:S1444$"/Make this "public static totalDots" field final(ψΊμΩϊÿÿÿÿ
+V
+java:S2184>"@Cast one of the operands of this integer division to a "double".(Ε”Ηυ
+f
+java:S1104!"PMake dot3 a static final constant or non-public and provide accessors if needed.(Τα…
+f
+java:S1104!"PMake dot2 a static final constant or non-public and provide accessors if needed.(Τα…
+o
+java:S1104 "TMake myLayout a static final constant or non-public and provide accessors if needed.(ÿ‡ªϊÿÿÿÿ
+f
+java:S1104!"PMake dot9 a static final constant or non-public and provide accessors if needed.(Τα…
+@
+java:S1444!"*Make this "public static dot3" field final(Τα…
 j
 java:S1104"TMake dotsDone a static final constant or non-public and provide accessors if needed.(ηΆΥ
 @
-java:S1444"*Make this "public static dot1" field final(Τα…
-[
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ξΨοβ
-
-java:S1319""rThe type of the "dotList" object should be an interface such as "List" rather than the implementation "ArrayList".(ª‚Ω
-D
-java:S1444".Make this "public static dotsDone" field final(ηΆΥ
-@
-java:S1444"*Make this "public static dot4" field final(Τα…
-@
-java:S1444"*Make this "public static dot6" field final(Τα…
-8
-java:S1659""Declare "dot9" on a separate line.(Τα…
-V
-java:S21840"@Cast one of the operands of this integer division to a "double".(Ε”Ηυ
-g
-java:S1104"QMake width a static final constant or non-public and provide accessors if needed.(ΙΚ¦Ώ
-A
-java:S1444"+Make this "public static width" field final(ΙΚ¦Ώ
-@
-java:S1444"*Make this "public static dot2" field final(Τα…
-o
-java:S1104"TMake myLayout a static final constant or non-public and provide accessors if needed.(ÿ‡ªϊÿÿÿÿ
-V
-java:S2184>"@Cast one of the operands of this integer division to a "double".(Ε”Ηυ
-j
-java:S1104"TMake dotAlpha a static final constant or non-public and provide accessors if needed.(•ήΧφ
-8
-java:S1659""Declare "dot2" on a separate line.(Τα…
-?
-java:S1444%")Make this "public static mp2" field final(ρύΉ„
-8
-java:S1659""Declare "dot8" on a separate line.(Τα…
-f
-java:S1104"PMake dot2 a static final constant or non-public and provide accessors if needed.(Τα…
-f
-java:S1104"PMake dot8 a static final constant or non-public and provide accessors if needed.(Τα…
-f
-java:S1104"PMake dot4 a static final constant or non-public and provide accessors if needed.(Τα…
-E
-java:S1444"/Make this "public static dotNumber" field final(ψξΪ―
-@
-java:S1444"*Make this "public static dot8" field final(Τα…
-8
-java:S1659""Declare "dot4" on a separate line.(Τα…
-@
-java:S1444"*Make this "public static dot5" field final(Τα…
-f
-java:S1104"PMake dot6 a static final constant or non-public and provide accessors if needed.(Τα…
-8
-java:S1659""Declare "dot7" on a separate line.(Τα…
-t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‰Ϊϋÿÿÿÿ
-d
-java:S1104&"NMake mp a static final constant or non-public and provide accessors if needed.(ÿ¨ς
-f
-java:S1104"PMake dot1 a static final constant or non-public and provide accessors if needed.(Τα…
-D
-java:S1444".Make this "public static dotAlpha" field final(•ήΧφ
-e
-java:S1104%"OMake mp2 a static final constant or non-public and provide accessors if needed.(ρύΉ„
-3
-java:S2386""Make this member "protected".(ª‚Ω
-J
-java:S1444#"/Make this "public static toastText" field final(”ΪΤνύÿÿÿÿ
-f
-java:S1104"PMake dot5 a static final constant or non-public and provide accessors if needed.(Τα…
-k
-java:S1104"UMake dotNumber a static final constant or non-public and provide accessors if needed.(ψξΪ―
-I
-java:S1444".Make this "public static myLayout" field final(ÿ‡ªϊÿÿÿÿ
-B
-java:S1444",Make this "public static height" field final(®ΧΥ
-p
-java:S1104#"UMake toastText a static final constant or non-public and provide accessors if needed.(”ΪΤνύÿÿÿÿ
-o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¨Λ 
-h
-java:S1104"RMake height a static final constant or non-public and provide accessors if needed.(®ΧΥ
-i
-java:S1104""SMake dotList a static final constant or non-public and provide accessors if needed.(ª‚Ω
-8
-java:S1659""Declare "dot6" on a separate line.(Τα…
-@
-java:S1444"*Make this "public static dot3" field final(Τα…
-8
-java:S1659""Declare "dot5" on a separate line.(Τα…
-C
-java:S1444""-Make this "public static dotList" field final(ª‚Ω
-o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ξΨοβ
-f
-java:S1104"PMake dot7 a static final constant or non-public and provide accessors if needed.(Τα…
-f
-java:S1104"PMake dot3 a static final constant or non-public and provide accessors if needed.(Τα…
-P
-java:S1118":Add a private constructor to hide the implicit public one.(όΏΘΉ
-f
-java:S1104"PMake dot9 a static final constant or non-public and provide accessors if needed.(Τα…
->
-java:S1444&"(Make this "public static mp" field final(ÿ¨ς
+java:S1444!"*Make this "public static dot4" field final(Τα…
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¨Λ 8ψ¦ΐΣΥ.
