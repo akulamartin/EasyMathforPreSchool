@@ -118,3 +118,9 @@ Fapp/src/test/java/com/martin/easymathforpreschool/ExampleUnitTest.java,d\9\d94
 app/.gitignore,5\1\51e1c5d383dfaa35e0e7e5873a0a99355a86880f
 U
 %.idea/copyright/profiles_settings.xml,8\c\8c00054dc44a9aac96957ae70e12d95773e087f7
+Y
+)app/src/main/res/layout/activity_main.xml,7\6\76b07e40f24cce093536731477540f12e7da3cb6
+S
+#app/src/main/res/values/strings.xml,d\2\d2281fbb3027de2722081a53408dd77628bf080e
+Z
+*app/src/main/res/values-w820dp/strings.xml,a\3\a3e7893dc4201cbb3a653cc53b353240fa17af12

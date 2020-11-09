@@ -1,94 +1,94 @@
 
-L
-java:S2696&"6Make the enclosing method "static" or remove this set.(ˆÁÃ‰
-f
-java:S1104"PMake mode a static final constant or non-public and provide accessors if needed.(² Í«
-r
-java:S1104"WMake eightBitmap a static final constant or non-public and provide accessors if needed.(œ¡•üÿÿÿÿ
-Q
-java:S2696'"6Make the enclosing method "static" or remove this set.(‹¨’òÿÿÿÿÿ
-A
-java:S11723"+Remove this unused method parameter "view".(¤ÏëÊ
-L
-java:S2696$"6Make the enclosing method "static" or remove this set.(“©µ
-L
-java:S1444"1Make this "public static sevenBitmap" field final(œ¡•üÿÿÿÿ
-D
-java:S1659")Declare "eightBitmap" on a separate line.(œ¡•üÿÿÿÿ
-M
-java:S1172?"+Remove this unused method parameter "view".(Š²Øéşÿÿÿÿ8¶úû‡Õ.
-A
-java:S1172-"+Remove this unused method parameter "view".(‡Íø›
-Q
-java:S2696."6Make the enclosing method "static" or remove this set.(©Ò›ˆÿÿÿÿÿ
-B
-java:S1659"'Declare "twoBitmap" on a separate line.(œ¡•üÿÿÿÿ
-p
-java:S1104"UMake sixBitmap a static final constant or non-public and provide accessors if needed.(œ¡•üÿÿÿÿ
-L
-java:S1444"1Make this "public static eightBitmap" field final(œ¡•üÿÿÿÿ
-r
-java:S1104"WMake sevenBitmap a static final constant or non-public and provide accessors if needed.(œ¡•üÿÿÿÿ
-F
-java:S1172Q"+Remove this unused method parameter "view".(Ú¤æÿÿÿÿÿ
 K
-java:S1444"0Make this "public static nineBitmap" field final(œ¡•üÿÿÿÿ
-J
-java:S1444"/Make this "public static sixBitmap" field final(œ¡•üÿÿÿÿ
-L
-java:S2696!"6Make the enclosing method "static" or remove this set.(–«Ú
-C
-java:S1659"(Declare "fiveBitmap" on a separate line.(œ¡•üÿÿÿÿ
-D
-java:S1659")Declare "sevenBitmap" on a separate line.(œ¡•üÿÿÿÿ
-q
-java:S1104"VMake fourBitmap a static final constant or non-public and provide accessors if needed.(œ¡•üÿÿÿÿ
-@
-java:S1444"*Make this "public static mode" field final(² Í«
-Q	java:S110"<This class has 8 parents which is greater than 5 authorized.(²Ú±
-p
-java:S1104"UMake oneBitmap a static final constant or non-public and provide accessors if needed.(œ¡•üÿÿÿÿ
+java:S2696)"6Make the enclosing method "static" or remove this set.(ŸŒûM
 C
 java:S1659"(Declare "fourBitmap" on a separate line.(œ¡•üÿÿÿÿ
 Q
-java:S2696#"6Make the enclosing method "static" or remove this set.(¿ùûÜúÿÿÿÿ
-p
-java:S1104"UMake twoBitmap a static final constant or non-public and provide accessors if needed.(œ¡•üÿÿÿÿ
-r
-java:S1104"WMake threeBitmap a static final constant or non-public and provide accessors if needed.(œ¡•üÿÿÿÿ
-H
-java:S1172E"+Remove this unused method parameter "view".(ƒÄßŠ8¿°ı‡Õ.
-L
-java:S26964"6Make the enclosing method "static" or remove this set.(×üıı
-B
-java:S1659"'Declare "sixBitmap" on a separate line.(œ¡•üÿÿÿÿ
-q
-java:S1104"VMake nineBitmap a static final constant or non-public and provide accessors if needed.(œ¡•üÿÿÿÿ
-Q
-java:S2696("6Make the enclosing method "static" or remove this set.(¨ş›“úÿÿÿÿ
-F
-java:S11729"+Remove this unused method parameter "view".(œÚ¹÷ıÿÿÿÿ
+java:S2696."6Make the enclosing method "static" or remove this set.(©Ò›ˆÿÿÿÿÿ
 J
 java:S1444"/Make this "public static oneBitmap" field final(œ¡•üÿÿÿÿ
+K
+java:S2696""6Make the enclosing method "static" or remove this set.(Îç…:
 J
-java:S1444"/Make this "public static twoBitmap" field final(œ¡•üÿÿÿÿ
-K
-java:S1444"0Make this "public static fourBitmap" field final(œ¡•üÿÿÿÿ
-D
-java:S1659")Declare "threeBitmap" on a separate line.(œ¡•üÿÿÿÿ
-K
-java:S2696)"6Make the enclosing method "static" or remove this set.(ŸŒûM
-L
-java:S2696%"6Make the enclosing method "static" or remove this set.(®ƒ§ö
+java:S1444"/Make this "public static sixBitmap" field final(œ¡•üÿÿÿÿ
+M
+java:S1172?"+Remove this unused method parameter "view".(Š²Øéşÿÿÿÿ8¶úû‡Õ.
+@
+java:S1444"*Make this "public static mode" field final(² Í«
 M
 java:S1172K"+Remove this unused method parameter "view".(ìÛ‹ìıÿÿÿÿ8Îş‡Õ.
 q
-java:S1104"VMake fiveBitmap a static final constant or non-public and provide accessors if needed.(œ¡•üÿÿÿÿ
+java:S1104"VMake nineBitmap a static final constant or non-public and provide accessors if needed.(œ¡•üÿÿÿÿ
+D
+java:S1659")Declare "sevenBitmap" on a separate line.(œ¡•üÿÿÿÿ
+L
+java:S2696$"6Make the enclosing method "static" or remove this set.(“©µ
+p
+java:S1104"UMake oneBitmap a static final constant or non-public and provide accessors if needed.(œ¡•üÿÿÿÿ
+L
+java:S1444"1Make this "public static threeBitmap" field final(œ¡•üÿÿÿÿ
 C
 java:S1659"(Declare "nineBitmap" on a separate line.(œ¡•üÿÿÿÿ
 L
-java:S1444"1Make this "public static threeBitmap" field final(œ¡•üÿÿÿÿ
+java:S26964"6Make the enclosing method "static" or remove this set.(×üıı
+q
+java:S1104"VMake fiveBitmap a static final constant or non-public and provide accessors if needed.(œ¡•üÿÿÿÿ
+p
+java:S1104"UMake sixBitmap a static final constant or non-public and provide accessors if needed.(œ¡•üÿÿÿÿ
+L
+java:S2696&"6Make the enclosing method "static" or remove this set.(ˆÁÃ‰
+D
+java:S1659")Declare "eightBitmap" on a separate line.(œ¡•üÿÿÿÿ
+A
+java:S11723"+Remove this unused method parameter "view".(¤ÏëÊ
+D
+java:S1659")Declare "threeBitmap" on a separate line.(œ¡•üÿÿÿÿ
+r
+java:S1104"WMake threeBitmap a static final constant or non-public and provide accessors if needed.(œ¡•üÿÿÿÿ
 K
-java:S2696""6Make the enclosing method "static" or remove this set.(Îç…:
+java:S1444"0Make this "public static nineBitmap" field final(œ¡•üÿÿÿÿ
+B
+java:S1659"'Declare "sixBitmap" on a separate line.(œ¡•üÿÿÿÿ
+F
+java:S1172Q"+Remove this unused method parameter "view".(Ú¤æÿÿÿÿÿ
+L
+java:S2696!"6Make the enclosing method "static" or remove this set.(–«Ú
+L
+java:S1444"1Make this "public static eightBitmap" field final(œ¡•üÿÿÿÿ
+B
+java:S1659"'Declare "twoBitmap" on a separate line.(œ¡•üÿÿÿÿ
 K
 java:S1444"0Make this "public static fiveBitmap" field final(œ¡•üÿÿÿÿ
+f
+java:S1104"PMake mode a static final constant or non-public and provide accessors if needed.(² Í«
+p
+java:S1104"UMake twoBitmap a static final constant or non-public and provide accessors if needed.(œ¡•üÿÿÿÿ
+H
+java:S1172E"+Remove this unused method parameter "view".(ƒÄßŠ8¿°ı‡Õ.
+r
+java:S1104"WMake eightBitmap a static final constant or non-public and provide accessors if needed.(œ¡•üÿÿÿÿ
+C
+java:S1659"(Declare "fiveBitmap" on a separate line.(œ¡•üÿÿÿÿ
+F
+java:S11729"+Remove this unused method parameter "view".(œÚ¹÷ıÿÿÿÿ
+Q	java:S110"<This class has 8 parents which is greater than 5 authorized.(²Ú±
+Q
+java:S2696'"6Make the enclosing method "static" or remove this set.(‹¨’òÿÿÿÿÿ
+A
+java:S1172-"+Remove this unused method parameter "view".(‡Íø›
+L
+java:S1444"1Make this "public static sevenBitmap" field final(œ¡•üÿÿÿÿ
+q
+java:S1104"VMake fourBitmap a static final constant or non-public and provide accessors if needed.(œ¡•üÿÿÿÿ
+Q
+java:S2696#"6Make the enclosing method "static" or remove this set.(¿ùûÜúÿÿÿÿ
+K
+java:S1444"0Make this "public static fourBitmap" field final(œ¡•üÿÿÿÿ
+J
+java:S1444"/Make this "public static twoBitmap" field final(œ¡•üÿÿÿÿ
+Q
+java:S2696("6Make the enclosing method "static" or remove this set.(¨ş›“úÿÿÿÿ
+r
+java:S1104"WMake sevenBitmap a static final constant or non-public and provide accessors if needed.(œ¡•üÿÿÿÿ
+L
+java:S2696%"6Make the enclosing method "static" or remove this set.(®ƒ§ö

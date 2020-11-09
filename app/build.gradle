@@ -2,6 +2,14 @@ apply plugin: 'com.android.application'
 
 android {
 
+    signingConfigs {
+        regan {
+            storeFile file('C:\\Users\\Android\\AndroidStudioProjects\\regan.jks')
+            storePassword 'regan@12'
+            keyAlias 'regan'
+            keyPassword 'regan@12'
+        }
+    }
     compileSdkVersion 29
     buildToolsVersion "30.0.2"
     defaultConfig {
