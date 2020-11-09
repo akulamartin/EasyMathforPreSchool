@@ -59,7 +59,6 @@
         android:layout_width="70sp"
         android:layout_height="40sp"
         android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true"
         android:background="@drawable/circle_nav"
         android:contentDescription="@string/home"

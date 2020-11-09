@@ -29,4 +29,12 @@
     <string name="home">Home</string>
     <string name="minus">minus</string>
     <string name="background">Background</string>
+
+    <string name="about_easy_math">About Easy Math</string>
+    <string name="division_quiz">Division Quiz</string>
+    <string name="subtraction_quiz">Subtraction Quiz</string>
+    <string name="multiplication_quiz">Multiplication Quiz</string>
+    <string name="addition_quiz">Addition Quiz</string>
+    <string name="practice">Practice</string>
+    <string name="learn">Learn</string>
 </resources>

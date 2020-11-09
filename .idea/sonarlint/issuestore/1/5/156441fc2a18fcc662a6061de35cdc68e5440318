@@ -1,26 +1,26 @@
 
-=
-java:S1659"'Declare "answer3TV" on a separate line.(“¯Á„
-;
-java:S1659"%Declare "answer2" on a separate line.(ÒĞÕÅ
-;
-java:S1659"%Declare "answer1" on a separate line.(ÒĞÕÅ
-A
-java:S1659"+Declare "correctAnswer" on a separate line.(ÒĞÕÅ
-=
-java:S1659"'Declare "answer2TV" on a separate line.(“¯Á„
-Q	java:S110"<This class has 8 parents which is greater than 5 authorized.(÷›²¼
 ?
 java:S1659")Declare "scoreNumber" on a separate line.(“¯Á„
-G
-java:S1172Ÿ"+Remove this unused method parameter "view".(¥×ìıÿÿÿÿ
-;
-java:S1659"%Declare "answer3" on a separate line.(ÒĞÕÅ
-@
-java:S1659"*Declare "secondNumber" on a separate line.(ÒĞÕÅ
+A
+java:S1659"+Declare "correctAnswer" on a separate line.(ÒĞÕÅ
 @
 java:S1659"*Declare "answerNumber" on a separate line.(ÒĞÕÅ
+;
+java:S1659"%Declare "answer2" on a separate line.(ÒĞÕÅ
+@
+java:S1659"*Declare "secondNumber" on a separate line.(ÒĞÕÅ
+;
+java:S1659"%Declare "answer1" on a separate line.(ÒĞÕÅ
+=
+java:S1659"'Declare "answer3TV" on a separate line.(“¯Á„
+=
+java:S1659"'Declare "answer2TV" on a separate line.(“¯Á„
+;
+java:S1659"%Declare "answer3" on a separate line.(ÒĞÕÅ
+h
+java:S1192-"FDefine a constant instead of duplicating this literal "SCORE" 3 times.(¿³”Ğüÿÿÿÿ8Œ ¯Õ.
+G
+java:S1172«"+Remove this unused method parameter "view".(¥×ìıÿÿÿÿ
 B
 java:S1659",Declare "secondNumberIV" on a separate line.(ÎôúÀ
-h
-java:S1192."FDefine a constant instead of duplicating this literal "SCORE" 3 times.(¿³”Ğüÿÿÿÿ8Œ ¯Õ.
+Q	java:S110"<This class has 8 parents which is greater than 5 authorized.(÷›²¼

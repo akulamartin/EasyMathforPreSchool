@@ -1,28 +1,28 @@
 
-P	java:S110"<This class has 8 parents which is greater than 5 authorized.(…øÂ)
-=
-java:S1659"'Declare "answer2TV" on a separate line.(“¯Á„
-@
-java:S1659"%Declare "answer2" on a separate line.(êÑåÆşÿÿÿÿ
-@
-java:S1659"%Declare "answer1" on a separate line.(êÑåÆşÿÿÿÿ
+h
+java:S1192-"FDefine a constant instead of duplicating this literal "SCORE" 3 times.(¿³”Ğüÿÿÿÿ8•›¯Õ.
+E
+java:S1659"*Declare "secondNumber" on a separate line.(êÑåÆşÿÿÿÿ
 @
 java:S1659"%Declare "answer3" on a separate line.(êÑåÆşÿÿÿÿ
-=
-java:S1659"'Declare "answer3TV" on a separate line.(“¯Á„
 F
 java:S1659"+Declare "correctAnswer" on a separate line.(êÑåÆşÿÿÿÿ
 E
-java:S1659"*Declare "secondNumber" on a separate line.(êÑåÆşÿÿÿÿ
-D
-java:S1659""Declare "swap" on a separate line.(êÑåÆşÿÿÿÿ8óŞ“Õ.
-?
-java:S1659")Declare "scoreNumber" on a separate line.(“¯Á„
+java:S1659"*Declare "answerNumber" on a separate line.(êÑåÆşÿÿÿÿ
 B
 java:S1659",Declare "secondNumberIV" on a separate line.(ÎôúÀ
-E
-java:S1659"*Declare "answerNumber" on a separate line.(êÑåÆşÿÿÿÿ
+P	java:S110"<This class has 8 parents which is greater than 5 authorized.(…øÂ)
+?
+java:S1659")Declare "scoreNumber" on a separate line.(“¯Á„
+@
+java:S1659"%Declare "answer1" on a separate line.(êÑåÆşÿÿÿÿ
+D
+java:S1659""Declare "swap" on a separate line.(êÑåÆşÿÿÿÿ8óŞ“Õ.
+@
+java:S1659"%Declare "answer2" on a separate line.(êÑåÆşÿÿÿÿ
+=
+java:S1659"'Declare "answer2TV" on a separate line.(“¯Á„
+=
+java:S1659"'Declare "answer3TV" on a separate line.(“¯Á„
 G
-java:S1172£"+Remove this unused method parameter "view".(¥×ìıÿÿÿÿ
-h
-java:S1192."FDefine a constant instead of duplicating this literal "SCORE" 3 times.(¿³”Ğüÿÿÿÿ8•›¯Õ.
+java:S1172¯"+Remove this unused method parameter "view".(¥×ìıÿÿÿÿ
